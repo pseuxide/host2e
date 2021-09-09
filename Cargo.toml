@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "host2e",
+    "host2bin",
+]
